@@ -19,7 +19,7 @@ Run in terminal: `sudo apt-get install r-base r-cran-rgl libgtk2.0-dev`
 source("http://retistruct.r-forge.r-project.org/install.R") ## retistruct
 source("http://retistruct.r-forge.r-project.org/install-gui.R") ## retistruct interface (accept the 'install gtk' prompt)
 install.packages('devtools') 
-devtools::install_github('bcohn12/retina')
+devtools::install_github('lschmitz/retina')
 ```
 ####3. Load _retina_ and  Pseudodax Moluccanus:
 ```R
